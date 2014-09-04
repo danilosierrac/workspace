@@ -7,6 +7,6 @@ url: "http://danilosierrac.github.io/Workspace/" # the base hostname & protocol 
 twitter_username: bootsbosley
 github_username:  danilosierrac
 
-{{ site.baseurl }}/media/css/site.css
+
 safe: true
 markdown: kramdown
