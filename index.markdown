@@ -5,42 +5,16 @@ title: Workspace
 
 # [The perfect office][self]
 
-So you're organising a hack day or hackathon? Here are some basic requirements
-to make your event a success, and avoid the common pitfalls that could otherwise
-ruin it. If you cannot provide any of the following, make it clear to guests
-before registration. Attendees are generally forgiving when clear communication
-is given. These are only guidelines, but exist to help you run a hack day in the
-easiest possible way.
+Yolo ipsum dolor sit amet, consectetur adipiscing elit. Ut ac suscipit leo. Carpe diem vulputate est nec commodo rutrum. Pellentesque mattis convallis nisi eu and I ain’t stoppin until the swear jar’s full. Ut rhoncus velit at mauris interdum, fringilla dictum neque rutrum. Curabitur mattis odio at erat viverra lobortis. Poppin’ bottles on the ice, tristique suscipit mauris elementum tempus. Quisque ut felis vitae elit tempor interdum viverra a est. Drop it like it’s hot, at pretium quam. In nec scelerisque purus. Nam dignissim lacus ipsum, a ullamcorper nulla pretium non. Aliquam sed enim faucibus, pulvinar felis at, vulputate augue. Ten, ten, twenties on them fifties, trick, at tempus libero fermentum id. Vivamus ut nisi dignissim, condimentum urna vel, dictum massa. Donec justo yolo, rutrum vitae dui in, dapibus tempor tellus. I do it big. Fusce ut sagittis mi.
 
-## Announcing the event
+## YOLO
 
-Once you know when and how your event will take place, you'll want to tell the
-world about it. At a bare minimum, you should decide on a canonical place where
-all public information about the event lives - this might be a dedicated web
-site, an event on an existing event online service or some other place which is
-publicly accessible. Also, express clearly the nature of the event and the outcome.
-No attendee should ever leave the event feeling he/she just gave away work for free, but
-understanding clearly in which way they were specifically part of something big.
-
-Once you've decided where that location is, use tools like Twitter and Facebook
-to make people aware of the event, and also consider which Google Groups and
-mailing lists developers relevant to your event may be hanging out. Don't spam
-them, though - nobody enjoys that.
+Yolo ipsum dolor sit amet, consectetur adipiscing elit. Ut ac suscipit leo. Carpe diem vulputate est nec commodo rutrum. Pellentesque mattis convallis nisi eu and I ain’t stoppin until the swear jar’s full. Ut rhoncus velit at mauris interdum, fringilla dictum neque rutrum. Curabitur mattis odio at erat viverra lobortis. Poppin’ bottles on the ice, tristique suscipit mauris elementum tempus. Quisque ut felis vitae elit tempor interdum viverra a est. Drop it like it’s hot, at pretium quam. In nec scelerisque purus. Nam dignissim lacus ipsum, a ullamcorper nulla pretium non. Aliquam sed enim faucibus, pulvinar felis at, vulputate augue. Ten, ten, twenties on them fifties, trick, at tempus libero fermentum id. Vivamus ut nisi dignissim, condimentum urna vel, dictum massa. Donec justo yolo, rutrum vitae dui in, dapibus tempor tellus. I do it big. Fusce ut sagittis mi.
 
 ### Registration _Optional_
 
-If you require your attendees to register, make it clear what information is
-required for signing up and what the deadline for the registration is. If
-there's a maximum number of attendees the venue can handle, communicate how the
-selection process works and when/how people will be notified if they've been
-granted attendance or not.
+Yolo ipsum dolor sit amet, consectetur adipiscing elit. Ut ac suscipit leo. Carpe diem vulputate est nec commodo rutrum. Pellentesque mattis convallis nisi eu and I ain’t stoppin until the swear jar’s full. Ut rhoncus velit at mauris interdum, fringilla dictum neque rutrum. Curabitur mattis odio at erat viverra lobortis. Poppin’ bottles on the ice, tristique suscipit mauris elementum tempus. Quisque ut felis vitae elit tempor interdum viverra a est. Drop it like it’s hot, at pretium quam. In nec scelerisque purus. Nam dignissim lacus ipsum, a ullamcorper nulla pretium non. Aliquam sed enim faucibus, pulvinar felis at, vulputate augue. Ten, ten, twenties on them fifties, trick, at tempus libero fermentum id. Vivamus ut nisi dignissim, condimentum urna vel, dictum massa. Donec justo yolo, rutrum vitae dui in, dapibus tempor tellus. I do it big. Fusce ut sagittis mi.
 
-If there's a waiting list for the event, make sure to explain how it works.
+Hey Girl
 
-Most registration forms lets applicants enter name, contact details and food
-preferences/allergies (if applicable). Depending on your event and your venue,
-you might want to ask for additional information - this manifesto lists a few
-other topics which might make sense to add to the registration form.
-
-There are also a number of things you probably should _not_ ask for, like
-gender, religious preferences etc.
+Yolo ipsum dolor sit amet, consectetur adipiscing elit. Ut ac suscipit leo. Carpe diem vulputate est nec commodo rutrum. Pellentesque mattis convallis nisi eu and I ain’t stoppin until the swear jar’s full. Ut rhoncus velit at mauris interdum, fringilla dictum neque rutrum. Curabitur mattis odio at erat viverra lobortis. Poppin’ bottles on the ice, tristique suscipit mauris elementum tempus. Quisque ut felis vitae elit tempor interdum viverra a est. Drop it like it’s hot, at pretium quam. In nec scelerisque purus. Nam dignissim lacus ipsum, a ullamcorper nulla pretium non. Aliquam sed enim faucibus, pulvinar felis at, vulputate augue. Ten, ten, twenties on them fifties, trick, at tempus libero fermentum id. Vivamus ut nisi dignissim, condimentum urna vel, dictum massa. Donec justo yolo, rutrum vitae dui in, dapibus tempor tellus. I do it big. Fusce ut sagittis mi.
