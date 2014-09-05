@@ -11,13 +11,10 @@ What if you could have the workspace you dream of? I am an office manager intere
 
 Every workspace should have some basic things considered, and by this it means assuring there are at least basic tools for the worker to code from.
 
-### Physical space 
+### Physical space
 
-There is a minimal area that a workspace should have. In the case of tech, a good amount is 3 m2 around the person (assuming they are sitting at a desk). The following breakdown can be suggested for comfortable work:
+There is a minimal area that a workspace should have. In the case of tech, a good amount is 3 m2 around the person (assuming they are sitting at a desk).
 
-	1.60 wide
-	x 1.80 long
-	= 2.88m2 
 
 ## Basic furnishing
 
@@ -30,4 +27,3 @@ You should at least have the following contraptions in your own workspace:
 ## Illumination
 
 You should have enough illumination. [This paper can be a powerful tool](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) to asses in detail its implication, but it should have at least a natural feeling, preferably if it is purely sunlight.
-
