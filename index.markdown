@@ -18,7 +18,7 @@ There is a minimal area that a workspace should have. In the case of tech, a goo
 
 ## Basic furnishing
 
-You should at least have the following contraptions in your own workspace:
+You should at least have the following items in your own workspace:
 
 * A table to place your tools on, which allows you to have your elbows in 90º angle.
 * A chair to sit down (unless you prefer standing), if its height can be adjusted even better.
