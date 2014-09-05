@@ -28,4 +28,8 @@ You should at least have the following contraptions in your own workspace:
 
 You should have enough illumination. [This paper can be a powerful tool](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) to asses in detail its implication, but it should have at least a natural feeling, preferably if it is purely sunlight.
 
-This project is in process, if you wish to contribute, [Fork it on GitHub](http://danilosierrac.github.io/workspace/), add yourself, and send us a pull request.
+` This project is in process, if you wish to contribute, [Fork it on GitHub](http://danilosierrac.github.io/workspace/), add yourself, and send us a pull request.`
+
+## Credits
+
+Originally started by [Danilo Sierra](http://danilosierra.com/)
