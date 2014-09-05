@@ -32,4 +32,4 @@ You should have enough illumination. [This paper can be a powerful tool](http://
 
 Originally started by [Danilo Sierra](http://danilosierra.com/)
 
-## This project is in process, if you wish to contribute, [Fork it on GitHub](http://danilosierrac.github.io/workspace/), add yourself, and send us a pull request.
+### This project is in process, if you wish to contribute, [Fork it on GitHub](http://danilosierrac.github.io/workspace/), add yourself, and send us a pull request.
