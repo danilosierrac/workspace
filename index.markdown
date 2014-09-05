@@ -3,7 +3,7 @@ layout: default
 title: Workspace
 ---
 
-# [The perfect workspace space](http://danilosierrac.github.io/workspace/)
+# [The perfect workspace](http://danilosierrac.github.io/workspace/)
 
 What if you could have the workspace you dream of? I am an office manager interested in tech and software development, so I decided to start this little project while teaching myself to code.
 
