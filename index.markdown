@@ -16,7 +16,7 @@ Every workspace should have some basic things considered, and by this it means a
 There is a minimal area that a workspace should have. In the case of tech, a good amount is 3 m2 around the person (assuming they are sitting at a desk).
 
 
-## Basic furnishing
+### Basic furnishing
 
 You should at least have the following items in your own workspace:
 
@@ -24,7 +24,7 @@ You should at least have the following items in your own workspace:
 * A chair to sit down (unless you prefer standing), if its height can be adjusted even better.
 * A place to stow some belongins and unneeded tools.
 
-## Illumination
+### Illumination
 
 You should have enough illumination. [This paper can be a powerful tool](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) to asses in detail its implication, but it should have at least a natural feeling, preferably if it is purely sunlight.
 
