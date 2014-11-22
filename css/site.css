@@ -12,6 +12,9 @@ h1, h2, h3, p, li {
 
 ul {
     list-style-type: square
+    padding: 0px;
+    margin: 20px;
+}
 }
 
 
