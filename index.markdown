@@ -38,11 +38,28 @@ Having plants, a fish or a pet makes life more bearable. Surround yourself with 
 
 ### Close distance to food and drinks
 
-Nomnomnom.
+Nomnomnom! For this it is better to have a separate space, as smells, cleanup, and preparation can be moduled without much interruption or risk of severe work interference. If you have a cafeteria, a couple of restaurants, deliveries or a small kitchen, you are pretty much set up. Avoid in all ways possible eating from your desk.
 
+## Communications
+
+###Phone
+
+If you share this space with other workers, and your job is not essentially making phone calls constantly, it is better to keep a lights, silent or vibration mode. In many cases, avoiding interrupting others is the best contribution you can make.
+
+###Internet Connection
+
+* Keep it always password protected
+* It should be, reliable and fast
+* Try to provide symmetrical access
+* Have a small, relatively slow guest connection for visitors
+
+###Fax
+
+* Keep it in a separate space to avoid noise, and if possible, through a digital application. The idea behind this recommendation is to avoid interruption of your work and the other people around you.
 
 ## Credits
 
 Originally started by [Danilo Sierra](http://danilosierra.com/)
+
 
 ### This project is in process, if you wish to contribute, [Fork it on GitHub](https://github.com/danilosierrac/workspace), add yourself, and send a pull request.
