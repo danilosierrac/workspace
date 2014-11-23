@@ -59,7 +59,7 @@ If you share this space with other workers, and your job is not essentially maki
 
 ## Credits
 
-Originally started by [Danilo Sierra](http://danilosierra.com/)
+Originally started by [Danilo Sierra](http://danilosierra.com/) with the intention of helping others to maximise comfort in the workspace while minimising costs and interruptions.
 
 
-### This project is in process, if you wish to contribute, [Fork it on GitHub](https://github.com/danilosierrac/workspace), add yourself, and send a pull request.
+### This project is in process, if you wish to contribute, [Fork it on GitHub](https://github.com/danilosierrac/workspace), add some content, and send a pull request.
