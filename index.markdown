@@ -30,7 +30,7 @@ You should at least have the following items in your own workspace:
 
 Enough natural light is essential. During winter/dark hours it is necessary to have a supplemental source that provides an amount of light similar to an overcast day. A screen alone is harmful for your eyes. In the best case, try working only during day time.
 
-_to asses in detail the implications of illumination, you can also refer to [This useful paper](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) ._
+_To asses in detail the implications of illumination, you can also refer to [This useful paper](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) ._
 
 ### Living matter
 
