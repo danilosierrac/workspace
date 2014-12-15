@@ -22,9 +22,7 @@ There is a minimal area that a workspace should have. In the case of tech-relate
 
 Access to fire exits is quintessential. If any kind of instictive need is met, work will never be interrupted.
 
-	Follow this link to learn a bit more of how our basic instincts impact our expectations about workspaces.
-	
-	http://99u.com/articles/35951/the-cavemans-guide-to-building-a-better-office
+>Follow this [link](http://99u.com/articles/35951/the-cavemans-guide-to-building-a-better-office) to learn a bit more of how our basic instincts impact our expectations about workspaces.
 
 
 ### Basic furnishing

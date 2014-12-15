@@ -54,10 +54,14 @@ a {
     text-decoration: none;
 }
 
-article {
+article, pre, blockquote {
     margin: 0 auto;
     max-width: 480px;
     padding: 40px 20px;
+}
+
+blockquote {
+    border-style: inset;
 }
 
 footer {
