@@ -61,7 +61,7 @@ article, pre, blockquote {
 }
 
 blockquote {
-    border-style: inset;
+    text-align: center;
     font-style: italic;
     color: #333;
 }
