@@ -18,6 +18,15 @@ Every workspace should have some basic things considered, and by this it means a
 
 There is a minimal area that a workspace should have. In the case of tech-related activities, an area of 3 m2 around the working person (assuming they are sitting at a desk) is recommendable.
 
+### Safety
+
+Access to fire exits is quintessential. If any kind of instictive need is met, work will never be interrupted.
+
+	Follow this link to learn a bit more of how our basic instincts impact our expectations about workspaces.
+	
+	http://99u.com/articles/35951/the-cavemans-guide-to-building-a-better-office
+
+
 ### Basic furnishing
 
 You should at least have the following items in your own workspace:
@@ -30,7 +39,10 @@ You should at least have the following items in your own workspace:
 
 Enough natural light is essential. During winter/dark hours it is necessary to have a supplemental source that provides an amount of light similar to an overcast day. A screen alone is harmful for your eyes. In the best case, try working only during day time.
 
-_To asses in detail the implications of illumination, you can also refer to [This useful paper](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf) ._
+	To asses in detail the implications of illumination, you can also refer to This useful paper
+
+	http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf
+	
 
 ### Living matter
 
@@ -44,7 +56,7 @@ Nomnomnom! For this it is better to have a separate space, as smells, cleanup, a
 
 ###Phone
 
-If you share this space with other workers, and your job is not essentially making phone calls constantly, it is better to keep a lights, silent or vibration mode. In many cases, avoiding interrupting others is the best contribution you can make.
+If you share this space with other workers, and your job is not essentially making phone calls constantly, it is better to keep a _lights only_, silent or vibration mode. In many cases, avoiding interrupting others is the best contribution you can make.
 
 ###Internet Connection
 
