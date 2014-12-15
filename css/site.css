@@ -64,6 +64,7 @@ blockquote {
     text-align: center;
     font-style: italic;
     color: #8db9df;
+    font: "times", serif;
 }
 
 footer {
