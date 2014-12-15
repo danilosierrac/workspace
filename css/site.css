@@ -62,6 +62,7 @@ article, pre, blockquote {
 
 blockquote {
     border-style: inset;
+    font-style: italic; ;
 }
 
 footer {
