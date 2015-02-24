@@ -39,6 +39,9 @@ Enough natural light is essential. During winter/dark hours it is necessary to h
 
 >To asses in detail the implications of illumination, you can also refer to [This useful paper](http://www.oshr.nc.gov/Support/Safety/handbook/Illumination%20Final.pdf).
 
+### Noise
+
+By definition, it should be avoided . If you like to perceive activity around you through sound, it should be in a manner complimentary to your work, not the oposite. This issue complicates itself slightly more when there are other people around you, so consider having a way to isolate yourself from noise if you are going to do concentration-demanding work.
 
 ### Living matter
 
