@@ -3,6 +3,11 @@ html {
     font-family: arial, sans-serif;
     font-size: 16px;
     line-height: 20px;
+}
+
+h1, h2, h3, p, li {
+    margin: 0 0 20px;
+    position: relative;
     -webkit-transform:rotate(-5deg);
     -moz-transform:rotate(-5deg);
     -o-transform:rotate(-5deg);
@@ -10,15 +15,15 @@ html {
     transform:rotate(-5deg);
 }
 
-h1, h2, h3, p, li {
-    margin: 0 0 20px;
-    position: relative;
-}
-
 ul {
     list-style-type: square;
     padding: 0px;
     margin: 25px;
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    -o-transform:rotate(-5deg);
+    -ms-transform:rotate(-5deg);
+    transform:rotate(-5deg);
 }
 
 h1, h2, h3, footer {
@@ -57,6 +62,11 @@ h3 em {
 a {
     color: #008DF2;
     text-decoration: none;
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    -o-transform:rotate(-5deg);
+    -ms-transform:rotate(-5deg);
+    transform:rotate(-5deg);
 }
 
 article, pre, blockquote {
