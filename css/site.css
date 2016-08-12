@@ -8,22 +8,17 @@ html {
 h1, h2, h3, p, li {
     margin: 0 0 20px;
     position: relative;
-    -webkit-transform:rotate(-5deg);
-    -moz-transform:rotate(-5deg);
-    -o-transform:rotate(-5deg);
-    -ms-transform:rotate(-5deg);
-    transform:rotate(-5deg);
+    -webkit-transform:skew(-5deg);
+    -moz-transform:skew(-5deg);
+    -o-transform:skew(-5deg);
+    -ms-transform:skew(-5deg);
+    transform:skew(-5deg);
 }
 
 ul {
     list-style-type: square;
     padding: 0px;
     margin: 25px;
-    -webkit-transform:rotate(-5deg);
-    -moz-transform:rotate(-5deg);
-    -o-transform:rotate(-5deg);
-    -ms-transform:rotate(-5deg);
-    transform:rotate(-5deg);
 }
 
 h1, h2, h3, footer {
@@ -33,6 +28,11 @@ h1, h2, h3, footer {
 h1, h2 {
     color: #000;
     line-height: 40px;
+    -webkit-transform:skew(-5deg);
+    -moz-transform:skew(-5deg);
+    -o-transform:skew(-5deg);
+    -ms-transform:skew(-5deg);
+    transform:skew(-5deg);
 }
 
 
@@ -62,11 +62,6 @@ h3 em {
 a {
     color: #008DF2;
     text-decoration: none;
-    -webkit-transform:rotate(-5deg);
-    -moz-transform:rotate(-5deg);
-    -o-transform:rotate(-5deg);
-    -ms-transform:rotate(-5deg);
-    transform:rotate(-5deg);
 }
 
 article, pre, blockquote {
