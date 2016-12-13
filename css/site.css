@@ -8,11 +8,6 @@ html {
 h1, h2, h3, p, li {
     margin: 0 0 20px;
     position: relative;
-    -webkit-transform:skew(-5deg);
-    -moz-transform:skew(-5deg);
-    -o-transform:skew(-5deg);
-    -ms-transform:skew(-5deg);
-    transform:skew(-5deg);
 }
 
 ul {
@@ -21,18 +16,9 @@ ul {
     margin: 25px;
 }
 
-h1, h2, h3, footer {
-    font-family: apercu, sans-serif;
-}
-
 h1, h2 {
     color: #000;
     line-height: 40px;
-    -webkit-transform:skew(-5deg);
-    -moz-transform:skew(-5deg);
-    -o-transform:skew(-5deg);
-    -ms-transform:skew(-5deg);
-    transform:skew(-5deg);
 }
 
 
